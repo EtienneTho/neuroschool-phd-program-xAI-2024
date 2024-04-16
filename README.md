@@ -4,7 +4,7 @@ This notebook provides an example of using reverse correlation and bubbles metho
 
 Here, an SVM with a gaussian kernel is trained to classify MNIST handwritten digits and then the discriminative and prototypical information are revealed with bubbles and reverse correlation.
 
-This notebook serves as a practical support for the course on xAI within the "Machine learning, from prediction to interpretation" Neuroschool Ph.D. program.
+This notebook serves as a practical support for the course on xAI within the "Machine learning, from prediction to interpretation" series of seminar - Neuroschool Ph.D. program.
 
 Relevant references:
 
